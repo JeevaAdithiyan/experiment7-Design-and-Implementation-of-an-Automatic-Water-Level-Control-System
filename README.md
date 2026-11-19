@@ -1,3 +1,5 @@
+
+JEEVA ADITHIYAN SK 212225060102
 # Experiment: Design and Implementation of a Water Level Indicator Using STM32
 
 ## Aim
@@ -48,6 +50,7 @@ The water-level information is displayed on the **Wokwi Serial Monitor** using U
 | Potentiometer GND | GND | Ground |
 | USART2 TX | PA2 | Serial data transmission |
 | USART2 RX | PA15 | Serial data reception |
+<img width="1042" height="605" alt="image" src="https://github.com/user-attachments/assets/3cfe6525-5650-4905-9181-38fbf756f6a0" />
 
 ---
 
@@ -176,6 +179,7 @@ GND  ---| GND                |
 ---
 
 ## Expected Output
+<img width="1079" height="991" alt="image" src="https://github.com/user-attachments/assets/ed7bc002-ea59-46cb-ae89-a58a262b503c" />
 
 ### Low Water Level
 
